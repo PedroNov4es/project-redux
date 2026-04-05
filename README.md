@@ -1,11 +1,13 @@
 <h1 align="center">🎓 AcadIA - Chat Acadêmico</h1>
 
 ## 📝 Descrição
-Este projeto foi feito no curso da Udemy de React onde foi apresentado o Redux como um gerenciador de estados globais. O projeto tem como funcionalidade apresentar as boas práticas e as vantagens de se utilizar Redux nos projetos. Foi utilizado um programa de Login pra demonstrar o uso dele.
+ Este projeto foi feito no curso da Udemy de React onde foi apresentado o Redux como um gerenciador de estados globais. O projeto tem como funcionalidade apresentar as boas práticas e    as vantagens de se utilizar Redux nos projetos. Foi utilizado um programa de Login pra demonstrar o uso dele.
 ---
 
 ## 🛠 Tecnologias
-- 
+- Redux
+- React
+- Vite
 ---
 
 ## 📂 Estrutura do Projeto
