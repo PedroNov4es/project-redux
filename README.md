@@ -47,9 +47,6 @@ vite.config.js
 ```
 ---
 
-🚀 Como Usar
+## 🚀 Como Usar
 
-
-
-Resposta é exibida ao usuário
-
+Primeiro, faça o Login, não é necessário um cadastro , apenas preencha os campos com as informações solicitadas, podem ser ficticias. Após isso o programa irá te direcionar a uma tela chamada "Painel", onde você pode Buscar usuários(que são buscados de JSONPlaceholder) e criar um endereço clicando em "Meus endereços" e sendo direcionado para a página de endereços. Preencha o nome e o número do endereço e após voltar a página inicial o seu endereço atual será exibido juntamente com a opção de deleta-lo.
