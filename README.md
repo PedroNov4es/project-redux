@@ -44,7 +44,7 @@ index.html
 package-lock.json
 package.json
 vite.config.js
-```
+
 ---
 
 🚀 Como Usar
