@@ -12,17 +12,38 @@
 
 ## 📂 Estrutura do Projeto
 ```bash
-/assets
-style.css # Estilos do front-end
-/includes
-db.php # Conexão com banco
-/tests
-teste_db.php # Teste de conexão
-/vendor # Dependências do Composer
-.gitignore # Arquivos ignorados pelo Git
-ia.php # Script principal da IA
-index.php # Interface do usuário
-README.md # Documentação
+/public
+  vite.svg
+/src
+  /components/header
+    header.module.css
+    index.jsx
+  /pages
+    /Home
+      home.module.css
+      index.jsx
+    /Login
+      index.jsx
+      login.module.css
+    /addres
+      address.module.css
+      index.jsx
+  /redux
+    /user
+      saga.js
+      slice.js
+    root-reducer.js
+    sagas.js
+    store.js
+  App.jsx
+  index.css
+  main.jsx
+.gitignore
+README.md
+index.html
+package-lock.json
+package.json
+vite.config.js
 ```
 ---
 
